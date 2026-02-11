@@ -167,4 +167,4 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student@University of Florida in Electrical and Computer Engineering. My research focuses on high-performance computing and networking, runtime and communication systems, and scalable training/inference of large language models, with a particular interest in distributed and federated learning systems and AI–HPC co-design.
+I am a Ph.D. student in Electrical and Computer Engineering. My research focuses on high-performance computing and networking, runtime and communication systems, and scalable training/inference of large language models, with a particular interest in distributed and federated learning systems and AI–HPC co-design.
