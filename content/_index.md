@@ -35,7 +35,7 @@ sections:
       title: Research
       subtitle: ''
       text: |-
-        I am a Ph.D. student in Electrical and Computer Engineering working with Prof. Xiaoyi Lu.
+        I am a Ph.D. student@University of Florida in Electrical and Computer Engineering, advisied by Prof. Xiaoyi Lu[](https://padsys.org/people/xiaoyi-lu.html).
 
         My research interests include high-performance computing and networking, runtime and communication systems, scalable training and inference of large language models, distributed and federated learning systems, and AI–HPC co-design.
     design:

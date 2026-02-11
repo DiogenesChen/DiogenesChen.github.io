@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student (ECE)
+role: Ph.D. Student@ECE
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -26,17 +26,17 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:zchen122@ucmerced.edu'
+    url: 'mailto:zh.chen@ufl.edu'
     label: E-mail
   - icon: phone
     url: 'tel:+12095043779'
     label: Phone
 
 interests:
-  - High-Performance Computing (HPC)
-  - Networking and Communication Systems
-  - Distributed Systems for LLM Training/Inference
-  - Federated Learning Systems
+  - High-Performance Computing
+  - Networking and Communication
+  - LLM Training/Inference
+  - Federated Learning System
   - AI–HPC Co-design
 
 education:
@@ -167,4 +167,4 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student in Electrical and Computer Engineering. My research focuses on high-performance computing and networking, runtime and communication systems, and scalable training/inference of large language models, with a particular interest in distributed and federated learning systems and AI–HPC co-design.
+I am a Ph.D. student@University of Florida in Electrical and Computer Engineering. My research focuses on high-performance computing and networking, runtime and communication systems, and scalable training/inference of large language models, with a particular interest in distributed and federated learning systems and AI–HPC co-design.
